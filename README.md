@@ -1,15 +1,15 @@
-# Dustinfarris Homebrew
+# Dustinfarris Postgis
 
 ## How do I install these formulae?
 
-`brew install dustinfarris/homebrew/<formula>`
+`brew install dustinfarris/postgis/<formula>`
 
-Or `brew tap dustinfarris/homebrew` and then `brew install <formula>`.
+Or `brew tap dustinfarris/postgis` and then `brew install <formula>`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
-tap "dustinfarris/homebrew"
+tap "dustinfarris/postgis"
 brew "<formula>"
 ```
 
